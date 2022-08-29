@@ -1,0 +1,40 @@
+.followus {
+  margin-top: 30px;
+  border: 1px solid #e2e2e2;
+  padding: 30px;
+
+  h1 {
+    font-size: 20px;
+    font-weight: bold;
+    border-left: 3px solid #ff5a3c;
+    padding-left: 10px;
+    margin-bottom: 20px;
+  }
+  .icon-group {
+    display: flex;
+    justify-content: center;
+
+    i {
+      background-color: #f2f6f7;
+      padding: 10px;
+      margin: 0 30px;
+
+      &.fa-facebook-f {
+        color: #1873eb;
+      }
+      &.fa-twitter {
+        color: #4ea6e9;
+      }
+      &.fa-linkedin {
+        color: #f1bed6;
+      }
+      &.fa-youtube {
+        color: #f70000;
+      }
+
+      &:hover {
+        opacity: 0.6;
+      }
+    }
+  }
+}

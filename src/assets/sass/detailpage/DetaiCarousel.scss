@@ -1,0 +1,24 @@
+.container-carousel {
+  .slick-slide {
+    height: 400px;
+  }
+
+  .slick-slide img {
+    z-index: -999;
+    width: 850px;
+    height: 400px;
+    &:hover {
+      transition: 0.5s;
+      transform: scale(1.1);
+    }
+    &:not(:hover) {
+      transition: 0.5s;
+      transform: scale(1);
+    }
+  }
+}
+.slick-prev::before {
+  position: absolute;
+  left: 20vh;
+  z-index: 1000;
+}

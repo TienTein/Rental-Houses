@@ -1,0 +1,17 @@
+button.kep-login-facebook.metro {
+  border-radius: 3px;
+  padding: 0;
+  height: 43px;
+  width: 41px;
+  align-items: center;
+  margin-right: 10px;
+
+  &:hover {
+    opacity: 0.9;
+  }
+
+  i {
+    margin: 0;
+    font-size: 18px;
+  }
+}

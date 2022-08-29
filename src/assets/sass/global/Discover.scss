@@ -1,0 +1,30 @@
+.discover {
+    width: 100%;
+    padding-left: 66px;
+    padding-right: 66px;
+    display: flex;
+    justify-content: center;
+    .discover-content{
+        margin-bottom: -80px;
+        background-color: #FF5A3C;
+        color: #fff;
+        padding: 40px;
+        width: 90%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        p{
+            margin: 0;
+        }
+        a{
+            text-align: center;
+            color: #000;
+            background-color: #fff;
+            border: none;
+            border-radius: 0;
+            font-size: 12px;
+            font-weight: bold;
+            padding: 10px 20px;
+        }
+    }
+}

@@ -1,0 +1,78 @@
+.famous-view{
+    height: 130vh;
+    background-color: #EBEEEF;
+    display: flex;
+    flex-direction: column;
+    align-items:  center;
+    justify-content: space-evenly;
+    h1{
+        font-size: 30px;
+        font-weight: bold;
+        margin-bottom: -30px;
+    }
+    .content{
+        height: 60%;
+        .content-item{
+            height: 100%;
+            .image{
+                height: 50%;
+                img{
+                    width: 100%;
+                    height: 100%;
+                }
+                margin-bottom: -7px;
+            }
+            .house-info{
+                background-color: #fff;
+                padding: 40px 20px 20px;
+                p{
+                    font-weight: bold;
+                    &.price{
+                        color: #FF5A3C;
+                        margin-bottom: 7px;
+                    }
+                }
+                small{
+                    display: inline-block;
+                    font-size: 12px;
+                    line-height: 1;
+                    margin: 0;
+                    margin-top: -7px;
+                    margin-bottom: 12px;
+                    &.meter{
+                        color: #FF5A3C;
+                        font-weight: bold;
+                        font-size: 16px;
+                    }
+                }
+            } // end house-info
+            .publisher-info{
+                background-color: #fff;
+                padding: 20px;
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                justify-content: space-between;
+                .paragraph {
+                    display: flex;
+                    img{
+                        height: 50px;
+                        width: 50px;
+                        border-radius: 50%;
+                        margin: 0 10px 0 0 ;
+                    }
+                    p{
+                        margin: 0;
+                        font-weight: bold;
+                        line-height: 1;
+                    }
+                }
+                .icon-group {
+                    i{
+                        margin-left: 10px;
+                    }
+                }
+            }// end publisher-info
+        } // end content-item
+    } // end content
+}

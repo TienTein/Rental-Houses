@@ -1,0 +1,59 @@
+.seller-profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  border: 1px solid #e2e2e2;
+
+  img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+  }
+
+  h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 10px 0;
+  }
+
+  p {
+    font-size: 14px;
+    letter-spacing: 1;
+    text-align: center;
+    margin: 10px 40px;
+    line-height: 1.2;
+  }
+
+  .icon-group {
+    color: #8cb2b2;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 100px;
+    margin: 10px 0;
+    font-size: 18px;
+    background-color: transparent;
+
+    i {
+      &.fa-facebook-f:hover {
+        color: #1873eb;
+      }
+      &.fa-twitter:hover {
+        color: #4ea6e9;
+      }
+      &.fa-linkedin:hover {
+        color: #f1bed6;
+      }
+      &.fa-youtube:hover {
+        color: #f70000;
+      }
+    }
+  }
+
+  button {
+    background-color: #ff5a3c;
+    font-size: 14px;
+    margin: 10px 0;
+  }
+}

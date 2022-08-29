@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+.Main{
+  .navBarContainer {
+    .navbar {
+      border: none;
+      box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+
+      &.active{
+        ul {
+          a {
+            color: #fff !important;
+          }
+        }
+      }
+
+      ul {
+        a {
+          font-weight: bold !important;
+          color: #ff5a3c !important;
+        }
+      }
+    }
+  }
+}
+
+
+
+.navBarContainer {
+  .navbar {
+    width: 100%;
+    position: fixed;
+    border-bottom: 1px solid rgba(255, 255, 255);
+    z-index: 100;
+
+    .container-fluid {
+      padding: 5px 0;
+    }
+
+    &.active {
+      background-color: #222;
+      border: none;
+      .container-fluid {
+        padding: 0;
+      }
+    }
+
+    .navbar-collapse {
+      flex-grow: 0;
+
+      ul {
+        display: flex;
+        align-items: center;
+        a {
+          display: inline-block;
+          margin: 10px;
+          color: #fff;
+          font-size: 18px;
+          font-weight: 500;
+          padding: 5px 0;
+
+          .progress-bar {
+            margin-top: 3px;
+            background-color: transparent;
+            height: 2px;
+            width: 100%;
+          }
+
+          &:hover {
+            .progress-bar {
+              background-color: #ff5a3c;
+              animation: grown 0.5s linear;
+              transform-origin: center;
+            }
+          }
+          &.active {
+            .progress-bar {
+              background-color: #ff5a3c;
+            }
+            &:hover {
+              .progress-bar {
+                animation: none;
+                transform: none;
+              }
+            }
+          }
+        }// end a
+      }// end ul
+
+      .user-info{
+        color: #fff;
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items:flex-end;
+        p{
+          color: #ff5a3c;
+          font-weight: bold;
+          margin: 0;
+        }
+
+        .signout{
+          border: none;
+          color: aqua;
+          background-color: transparent;
+
+          &:hover{
+            font-weight: lighter;
+          }
+        }
+      }
+
+    }// end nav-collapse
+  }//end navbar
+}
+
+@keyframes grown {
+  0% {
+    transform: scaleX(0);
+  }
+}

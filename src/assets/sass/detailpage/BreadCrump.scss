@@ -1,0 +1,25 @@
+.background-breadcrump{
+    // background-color: #134e1a;
+    background: linear-gradient(70deg, #2a5172, #134e1a);
+    color: #fff;
+    width: 100%;
+}
+
+.breadcrump{
+    padding: 17vh 0 50px;
+
+    h1{
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    a{
+        span{
+            color: #fff;
+        }
+    }
+
+    li{
+        color: #fff;
+    }
+}

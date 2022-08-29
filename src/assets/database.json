@@ -1,0 +1,291 @@
+[
+	{
+		"id": 1,
+		"name": "Biệt phủ Phước Thuận",
+		"price": "1.000.000.000",
+		"address": "Phước Thuận, Tuy Phước, Bình Định",
+		"image": {
+			"image1": "https://mocfun.net/uploads/news/2018_07/biet-thu-thiet-ke-theo-tan-co-dien8.jpg",
+			"image2": "https://mocfun.net/uploads/news/2018_07/biet-thu-thiet-ke-theo-tan-co-dien1.jpg",
+			"image3": "https://mocfun.net/uploads/news/2018_07/biet-thu-thiet-ke-theo-tan-co-dien4.jpg"
+		},
+		"area": "250m2",
+		"vote": 10,
+		"detailsumary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia."
+	},
+
+	{
+		"id": 2,
+		"name": "Biệt phủ 64 Bạch Đằng",
+		"price": "3.000.000",
+		"address": "64 Bạch Đằng, Quy Nhơn, Bình Định",
+		"image": {
+			"image1": "https://mocfun.net/uploads/news/2018_07/biet-thu-thiet-ke-theo-tan-co-dien4-1.jpg",
+			"image2": "https://mocfun.net/uploads/news/2018_07/biet-thu-thiet-ke-theo-tan-co-dien1-1.jpg",
+			"image3": "https://mocfun.net/uploads/news/2018_07/biet-thu-thiet-ke-theo-tan-co-dien2-2.jpg"
+		},
+		"area": "30m2",
+		"vote": 30,
+		"detailsumary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia."
+
+	},
+
+	{
+		"id": 3,
+		"name": "Nhà 74 Bạch Đằng",
+		"price": "500.000",
+		"address": "74 Bạch Đằng, Quy Nhơn, Bình Định",
+		"image": {
+			"image1": "https://fukacovn.com/wp-content/uploads/2021/01/e967b3cdd0e947fe351be726e80f9001-1024x683.jpg",
+			"image2": "http://landtoday.net/files/1970/01/01/10-biet-thu-nghi-duong-dat-nhat-the-gioi-1.jpg",
+			"image3": "http://landtoday.net/files/1970/01/01/10-biet-thu-nghi-duong-dat-nhat-the-gioi-4.jpg"
+		},
+		"area": "20m2",
+		"vote": 17,
+		"detailsumary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia."
+
+	},
+	{
+		"id": 4,
+		"name": "Villa Nguyễn văn Trỗi",
+		"price": "500.000.000",
+		"address": "02 Nguyễn Văn Trỗi, Quy Nhơn, Bình Định",
+		"image": {
+			"image1": "https://happynest.vn/storage/uploads/2019/12/603d5136018848a2811c8007801e1b2b.jpg",
+			"image2": "http://landtoday.net/files/1970/01/01/10-biet-thu-nghi-duong-dat-nhat-the-gioi-5.jpg",
+			"image3": "http://landtoday.net/files/1970/01/01/10-biet-thu-nghi-duong-dat-nhat-the-gioi-6.jpg"
+		},
+		"area": "400m2",
+		"vote": 88,
+		"detailsumary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia."
+
+	},
+	{
+		"id": 5,
+		"name": "Nhà lá",
+		"price": "50.000",
+		"address": "Phước Thuận, Tuy Phước, Bình Định",
+		"image": {
+			"image1": "https://happynest.vn/storage/uploads/2019/12/29a692c25c6806a0920a2316bfdab3e3.jpg",
+			"image2": "http://landtoday.net/files/1970/01/01/10-biet-thu-nghi-duong-dat-nhat-the-gioi-7.jpg",
+			"image3": "http://landtoday.net/files/1970/01/01/10-biet-thu-nghi-duong-dat-nhat-the-gioi-8.jpg"
+		},
+		"area": "10m2",
+		"vote": 100,
+		"detailsumary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia."
+
+	},
+	{
+		"id": 6,
+		"name": "Biệt phủ anh Nguyên",
+		"price": "4.500.000",
+		"address": "Gia Lai",
+		"image": {
+			"image1": "http://landtoday.net/files/1970/01/01/10-biet-thu-nghi-duong-dat-nhat-the-gioi-9.jpg",
+			"image2": "http://landtoday.net/files/1970/01/01/10-biet-thu-nghi-duong-dat-nhat-the-gioi-10.jpg",
+			"image3": "http://landtoday.net/files/1970/01/01/10-biet-thu-nghi-duong-dat-nhat-the-gioi-11.jpg"
+		},
+		"area": "70m2",
+		"vote": 26,
+		"detailsumary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia."
+
+	},
+	{
+		"id": 7,
+		"name": "Biệt phủ quỳnh íu",
+		"price": "500.000",
+		"address": "527 Đống Đa, Quy Nhơn, Bình Định",
+		"image": {
+			"image1": "https://media.baodansinh.vn/baodansinh/Images/2016/06/29/thuhavt/1.jpg",
+			"image2": "https://media.baodansinh.vn/baodansinh/Images/2016/06/29/thuhavt/2.jpg",
+			"image3": "https://media.baodansinh.vn/baodansinh/Images/2016/06/29/thuhavt/3.jpg"
+		},
+		"area": "70m2",
+		"vote": 1,
+		"detailsumary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia."
+
+	},
+	{
+		"id": 8,
+		"name": "Khách sạn Đào Tiên",
+		"price": "4.500.000",
+		"address": "527 Đống Đa, Quy Nhơn, Bình Định",
+		"image": {
+			"image1": "https://img4.thuthuatphanmem.vn/uploads/2020/12/17/hinh-anh-noi-that-nha-dep_103830177.jpg",
+			"image2": "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-noi-that-dep_052104700.png",
+			"image3": "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-noi-that-phong-ngu_052105459.png"
+		},
+		"area": "70m2",
+		"vote": 50,
+		"detailsumary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia."
+
+	},
+	{
+		"id": 9,
+		"name": "Lâu đài cô Duyên",
+		"price": "4.500.000",
+		"address": "Gia Lai",
+		"image": {
+			"image1": "https://happynest.vn/storage/uploads/2019/12/ce97ebbeb16b57f2168ae1db01bfd1e1.jpg",
+			"image2": "https://happynest.vn/storage/uploads/2019/12/8fea1b539390158a6ddf12505cf07b77.jpg",
+			"image3": "https://happynest.vn/storage/uploads/2019/12/c979bcbd31cfd1dbb8063e1d844ba9ae.jpg"
+		},
+		"area": "70m2",
+		"vote": 109,
+		"detailsumary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia."
+
+	},
+	{
+		"id": 10,
+		"name": "Nhà nghỉ",
+		"price": "4.500.000",
+		"address": "26 Chu Văn An ,Quy Nhơn, Bình Định",
+		"image": {
+			"image1": "https://khainguyenphat.vn/wp-content/uploads/2020/10/Billionaire.jpg",
+			"image2": "https://znews-photo.zingcdn.me/w660/Uploaded/asfzyreslz2/2020_05_07/2.jpg",
+			"image3": "https://znews-photo.zingcdn.me/w660/Uploaded/asfzyreslz2/2020_05_07/3.jpg"
+		},
+		"area": "70m2",
+		"vote": 46,
+		"detailsumary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia."
+
+	},
+	{
+		"id": 11,
+		"name": "Nhà Hiền Tiu",
+		"price": "4.500.000",
+		"address": "Quy Nhơn, Bình Định",
+		"image": {
+			"image1": "https://znews-photo.zingcdn.me/w660/Uploaded/asfzyreslz2/2020_05_07/1.jpg",
+			"image2": "https://znews-photo.zingcdn.me/w660/Uploaded/asfzyreslz2/2020_05_07/4.jpg",
+			"image3": "https://znews-photo.zingcdn.me/w660/Uploaded/asfzyreslz2/2020_05_07/5.jpg"
+		},
+		"area": "70m2",
+		"vote": 72,
+		"detailsumary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia."
+
+	},
+	{
+		"id": 12,
+		"name": "Funny House 3",
+		"price": "4.500.000",
+		"address": "20 Trần Hưng Đạo, Quy Nhơn, Bình Định",
+		"image": {
+			"image1": "https://znews-photo.zingcdn.me/w660/Uploaded/asfzyreslz2/2020_05_07/8.jpg",
+			"image2": "https://znews-photo.zingcdn.me/w660/Uploaded/asfzyreslz2/2020_05_07/7.jpg",
+			"image3": "https://znews-photo.zingcdn.me/w660/Uploaded/asfzyreslz2/2020_05_07/6.jpg"
+		},
+		"area": "70m2",
+		"vote": 87,
+		"detailsumary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia."
+
+	},
+	{
+		"id": 13,
+		"name": "Funny House 2",
+		"price": "4.500.000",
+		"address": "156 Trần Hưng Đạo, Quy Nhơn, Bình Định",
+		"image": {
+			"image1": "https://znews-photo.zingcdn.me/w660/Uploaded/asfzyreslz2/2020_05_07/9.jpg",
+			"image2": "https://znews-photo.zingcdn.me/w660/Uploaded/asfzyreslz2/2020_05_07/10.jpg",
+			"image3": "https://znews-photo.zingcdn.me/w660/Uploaded/asfzyreslz2/2020_05_07/11.jpg"
+		},
+		"area": "70m2",
+		"vote": 60,
+		"detailsumary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia."
+
+	},
+	{
+		"id": 14,
+		"name": "Funny House 1",
+		"price": "4.500.000",
+		"address": "148 Bạch Đằng, Quy Nhơn, Bình Định",
+		"image": {
+			"image1": "https://baoxaydung.com.vn/stores/news_dataimages/hiep/072021/18/14/2141_image001.jpg",
+			"image2": "https://baoxaydung.com.vn/stores/news_dataimages/hiep/072021/18/14/2142_image002.jpg",
+			"image3": "https://baoxaydung.com.vn/stores/news_dataimages/hiep/072021/18/14/2143_image003.jpg"
+		},
+		"area": "70m2",
+		"vote": 84,
+		"detailsumary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia."
+
+	},
+	{
+		"id": 15,
+		"name": "UIT",
+		"price": "Free",
+		"address": "Đại học quốc gia TPHCM",
+		"image": {
+			"image1": "https://baoxaydung.com.vn/stores/news_dataimages/hiep/072021/18/14/2145_image005.jpg",
+			"image2": "https://baoxaydung.com.vn/stores/news_dataimages/hiep/072021/18/14/2146_image006.jpg",
+			"image3": "https://baoxaydung.com.vn/stores/news_dataimages/hiep/072021/18/14/2144_image004.jpg"
+		},
+		"area": "70m2",
+		"vote": 74,
+		"detailsumary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia."
+
+	},
+	{
+		"id": 16,
+		"name": "Nhà cu Đạt",
+		"price": "1.500.000",
+		"address": "15 Trần Thị Kỷ, Quy Nhơn, Bình Định",
+		"image": {
+			"image1": "https://baoxaydung.com.vn/stores/news_dataimages/hiep/072021/18/14/2146_image007.jpg",
+			"image2": "https://baoxaydung.com.vn/stores/news_dataimages/hiep/072021/18/14/2147_image008.jpg",
+			"image3": "https://baoxaydung.com.vn/stores/news_dataimages/hiep/072021/18/14/2147_image009.jpg"
+		},
+		"area": "70m2",
+		"vote": 61,
+		"detailsumary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia."
+
+	},
+	{
+		"id": 17,
+		"name": "Nhà thần bài Quang",
+		"price": "6.500.000",
+		"address": "160 Nguyễn Thái Học, Quy Nhơn, Bình Định",
+		"image":{
+			"image1": "https://danviet.mediacdn.vn/2020/6/15/logo-1-15922174739821307076680.jpg",
+			"image2": "https://danviet.mediacdn.vn/2020/6/15/logo-2-1592217475231157892464.jpg",
+			"image3": "https://danviet.mediacdn.vn/2020/6/15/logo-3-1592217476367937290837.jpg"
+		},
+		"area": "70m2",
+		"vote": 77,
+		"detailsumary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia."
+
+	},
+	{
+		"id": 18,
+		"name": "Nhà thần bài Khánh",
+		"price": "4.500.000",
+		"address": "356 Nguyễn Thái Học, Quy Nhơn, Bình Định",
+		"image": {
+			"image1": "https://cdnb.artstation.com/p/assets/images/images/047/966/573/large/cong-ty-nha-xinh-ben-trong-biet-thu.jpg?1648867117",
+			"image2": "https://cdnb.artstation.com/p/assets/images/images/047/966/579/large/cong-ty-nha-xinh-biet-thu-rong-nhat-the-gioi.jpg?1648867123",
+			"image3": "https://cdnb.artstation.com/p/assets/images/images/047/966/583/large/cong-ty-nha-xinh-nhung-sieu-biet-thu-dep-nhat-the-gioi.jpg?1648867132"
+		},
+		"area": "70m2",
+		"vote": 18,
+		"detailsumary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia."
+
+	}
+]

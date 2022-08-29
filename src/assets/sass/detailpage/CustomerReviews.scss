@@ -1,0 +1,98 @@
+.customer-reviews {
+  margin-top: 30px;
+
+
+  h1 {
+    font-size: 20px;
+    font-weight: bold;
+    border-left: 3px solid #ff5a3c;
+    padding-left: 10px;
+    margin-bottom: 30px;
+  }
+
+  .context {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    width: 100%;
+    img {
+      border-radius: 50%;
+      height: 80px;
+      width: 80px;
+    }
+
+    .content {
+      margin-left: 20px;
+      width: 100%;
+      padding-right: 20px;
+      .info {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 10px;
+        h1 {
+          border: none;
+          margin: 0;
+          padding: 0;
+          font-size: 16px;
+        }
+
+        span {
+          border: 1px solid #685f5f;
+          border-radius: 50px;
+          color: #685f5f;
+          padding: 0 25px;
+        }
+      }
+      p {
+        letter-spacing: 1;
+        font-size: 14px;
+        word-break: break-word;
+      }
+    }
+  } // end context
+
+  .post-reviews {
+    padding: 50px;
+    background-color: #f3f2e5;
+
+    h1 {
+      border: none;
+    }
+
+    .form-text {
+      display: flex;
+      flex-direction: column;
+      padding: 0 10px;
+      * {
+        margin-bottom: 10px;
+        border: none;
+        padding: 17px 28px;
+        &:focus {
+          outline: none;
+        }
+      }
+
+      .text-reviews {
+        height: 150px;
+      }
+
+      .input {
+        height: 60px;
+      }
+
+      p{
+        color: red;
+        margin: 0 5px 10px ;
+        padding: 0;
+      }
+    } // end form-text
+
+    .form-check {
+      margin: 20px 10px;
+    }
+
+    button{
+      margin: 0 10px;
+    }
+  }
+}

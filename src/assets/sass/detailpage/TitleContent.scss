@@ -1,0 +1,21 @@
+.title-content {
+  margin-top: 30px;
+
+  h1 {
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  p {
+    color: #ff5a3c;
+    font-weight: bold;
+  }
+
+  .address {
+    small {
+      display: inline-block;
+      margin-left: 10px;
+      font-weight: bold;
+    }
+  }
+}

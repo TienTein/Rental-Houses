@@ -1,0 +1,23 @@
+.place-detail{
+    margin-top: 30px;
+
+    h1{
+        font-size: 20px;
+        font-weight: bold;
+        border-left: 3px solid #FF5A3C;
+        padding-left: 10px;
+        margin-bottom: 30px;
+    }
+    
+    .detail{
+        background-color: #DEE3E5;
+        padding: 30px 50px;
+        font-size: 12px;
+
+        p {
+            font-weight: bold;
+            margin: 0 0 10px 0;
+        }
+
+    }
+}

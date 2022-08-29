@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.container-carousel{
+    padding: 1px;
+    background-color: #F2F6F7;
+    .carousel-item.carousel-main {
+        height: 80vh;
+        .slide-item{
+            display: flex;
+            .content-around{
+                position: relative;
+                .carousel-title {
+                    animation: fadeInDown;
+                    animation-duration: 2s; 
+                    box-sizing: border-box;
+                    margin-bottom: 20px;
+                }
+                .mainText {
+                    animation: fadeInDown;
+                    animation-duration: 2s; 
+                    margin-bottom: 20px;
+                }
+                .content{
+                    position: absolute;
+                    width: 60%;
+                    height: 50%;
+                    top: 40%;
+                    left: 48%;
+                    transform: translate(-40%,-40%);
+                    p{
+                        font-weight: bold;
+                    }
+                    h1{
+                 animation: fadeInDown;
+                        animation-duration: 2s; 
+                        font-size: 50px;
+                        font-weight: bold;
+                        line-height: 3.5rem;
+                        letter-spacing: -1px;
+                    }
+                    .summary{
+                        animation: fadeInDown;
+                        animation-duration: 2s; 
+                        border-left: 1px solid #000;
+                        padding-left: 30px;
+                        margin-bottom: 44px;
+                        font-size: 14px;
+                        color: #5C727D;
+                    }
+                    .control {
+                        button{
+                            animation: fadeInDown;
+                            animation-duration: 2s; 
+                            width: 154px;
+                            height: 56px;
+                            border: none;
+                            color: #fff;
+                            background-color: #FF5A3C;
+                            padding: 0.5rem 1rem;
+                        }
+                        i{
+                            animation: fadeInDown;
+                            animation-duration: 2s; 
+                            margin-left: 30px;
+                            font-size: 24px;
+                            color: #FF5A3C;
+                        }
+                    }
+                }// End content
+            }// End content-around
+            img{
+                width: 684px;
+                height: 581.600px;
+            }
+        }// End slide-item
+    }
+    
+}

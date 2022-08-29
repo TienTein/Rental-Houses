@@ -1,0 +1,41 @@
+.image-overview{
+    margin-top: 30px;
+
+    h1{
+        font-size: 20px;
+        font-weight: bold;
+        border-left: 3px solid #FF5A3C;
+        padding-left: 10px;
+        margin-bottom: 30px;
+    }
+
+    .address-img{
+        height: 30vh;
+        
+        div{
+            height: 100%;
+        }
+
+        img{
+            width: 100%;
+        }
+
+        .double {
+            img{
+                height: 50%;
+
+                &:first-child{
+                    margin-bottom: 10px;
+                }
+            }
+        }
+
+        .only {
+            img{
+                height: calc(100% + 10px)
+            }
+        }
+    }
+    
+}
+
